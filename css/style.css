@@ -1,0 +1,19 @@
+header {
+  height: 3rem;
+  background-color: #06131f;
+}
+
+header img {
+  height: 100%;
+  margin-left: 3rem;
+}
+
+main {
+  background-color: #1c2d3c;
+  padding: 1rem;
+}
+
+.card {
+  width: calc(100 / 3 - 0.5rem);
+  margin: 1rem;
+}
